@@ -1,0 +1,7 @@
+C:\Users\allan\source\repos\IFALista1Ex1\IFALista1\bin\Debug\IFALista1.exe.config
+C:\Users\allan\source\repos\IFALista1Ex1\IFALista1\bin\Debug\IFALista1.exe
+C:\Users\allan\source\repos\IFALista1Ex1\IFALista1\bin\Debug\IFALista1.pdb
+C:\Users\allan\source\repos\IFALista1Ex1\IFALista1\obj\Debug\IFALista1.csproj.AssemblyReference.cache
+C:\Users\allan\source\repos\IFALista1Ex1\IFALista1\obj\Debug\IFALista1.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\IFALista1Ex1\IFALista1\obj\Debug\IFALista1.exe
+C:\Users\allan\source\repos\IFALista1Ex1\IFALista1\obj\Debug\IFALista1.pdb
